@@ -58,6 +58,11 @@ form {
     border-radius: 12px;
 }
 
+.highlight {
+    background-color: yellow;
+    padding: 0 4px;
+}
+
 footer {
     margin-top: 24px;
 }
